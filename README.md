@@ -1,8 +1,4 @@
-# How-to-learn 2.0
+# Russian-travel
 ------------------
 
-Проект, который позволяет укрепить навыки работы с анимациями, шрифтами и фреймами.
-Используются:
--файловая структру Nested по БЭМ
--вставка видео через iframe
--анимации через keyframes
+https://m4rtinid3n.github.io/russian-travel/index.html
