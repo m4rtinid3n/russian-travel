@@ -1,0 +1,6 @@
+@import url(./_line/intro__list_line.css);
+@import url(./_line-accent/intro__list-line-accent.css);
+
+.intro__list {
+    padding: 0;
+}
