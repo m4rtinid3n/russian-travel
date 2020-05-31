@@ -1,13 +1,12 @@
 .lead__title {
     margin:0 auto;
     text-align: center;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter', ‘Arial’, sans-serif;
     color: #FFFFFF;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     max-width: 720px;
-    min-height: 200px;
     margin-bottom: 32px;
 }
 

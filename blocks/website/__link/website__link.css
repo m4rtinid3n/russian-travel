@@ -1,12 +1,11 @@
 .website__link {
 text-decoration-line: underline;
-font-family: 'Inter', Arial, sans-serif;
+font-family: 'Inter', ‘Arial’, sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 22px;
 color: #FFFFFF;
-letter-spacing: 0.2em;
 }
 
 .website__link:hover {

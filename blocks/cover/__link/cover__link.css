@@ -13,6 +13,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
 }
 
 .cover__link:before {
@@ -29,6 +30,17 @@
 
 .cover__link:hover.cover__link:before {
 opacity: 0.8;
+}
+@media only screen and (max-width: 1080px) {
+    .cover__link {
+    min-height: 640px;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    .cover__link {
+    min-height: 480px;
+    }
 }
 
 @media only screen and (max-width: 380px) {

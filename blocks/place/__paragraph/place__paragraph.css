@@ -1,5 +1,5 @@
 .place__paragraph {
-font-family: 'Inter', Arial, sans-serif;
+font-family: 'Inter', ‘Arial’, sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -16,7 +16,7 @@ margin-bottom: 24px;
     }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 640px) {
     .place__paragraph {
     margin-left: 16px;
     margin-right: 16px;

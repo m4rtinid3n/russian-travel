@@ -1,6 +1,7 @@
 @import url(./__copyright/footer__copyright.css);
-@import url(./__link/footer__link.css);
-@import url(./__links/footer__links.css);
+@import url(./__navigation-link/footer__navigation-link.css);
+@import url(./__navigation-links/footer__navigation-links.css);
+@import url(./__item/footer__item.css);
 
 .footer {
     margin: 0 auto;
@@ -22,7 +23,6 @@
 @media only screen and (max-width: 680px) {
     .footer {
         flex-direction: column;
-        min-height: 310px;
         padding-left: 16px;
     }
 }
