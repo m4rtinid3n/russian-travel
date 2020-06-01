@@ -9,6 +9,5 @@
 @media only screen and (max-width: 680px) {
     .footer__navigation-links {
         flex-direction: column;
-        justify-content: space-between;
     }
 }
